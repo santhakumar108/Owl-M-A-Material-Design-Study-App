@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">A Material Design Study App</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_main4">MainActivity4</string>
+    <string name="title_activity_main5">MainActivity5</string>
+    <string name="course1">The Basics of Woodturning</string>
+    <string name="topic1">Arts and Craft</string>
+    <string name="subheading1_1">Choose the wood:</string>
+    <string name="text1_1">Select a piece of wood that is appropriate for your project. Different types of wood have different characteristics, so it’s important to choose the right one for your project.
+</string>
+    <string name="subheading1_2">Mount the wood:</string>
+    <string name="text1_2">Secure the wood to the lathe using a center spur drive and live center. The center spur drive is inserted into the center of the wood and the live center is placed on the opposite end.</string>
+    <string name="course2">Painting</string>
+    <string name="topic2">An Introduction to Oil painting</string>
+    <string name="subheading2_1">Choose the right materials:</string>
+    <string name="text2_1"> Select the appropriate paint and brushes for your project. Different types of paint, such as oil, acrylic, and watercolor, have different characteristics and require different tools and techniques.</string>
+    <string name="subheading2_2">Prepare the surface:</string>
+    <string name="text2_2">Make sure the surface you will be painting on is clean, dry, and smooth. If necessary, apply a primer to the surface to ensure the paint adheres properly.</string>
+    <string name="course3">An Introduction to Metropolitan city</string>
+    <string name="topic3">What is metropolitan city?</string>
+    <string name="subheading3_1">Metropolitan city:</string>
+    <string name="text3_1">A metropolitan city is a large urban area that typically serves as the economic, political, and cultural center of a region or country. These cities are often characterized by their high population density, diverse demographics, and extensive transportation networks.</string>
+    <string name="subheading3_2">Culture and Entertainment:</string>
+    <string name="text3_2"> Metropolitan cities are often known for their vibrant cultural scenes, with world-renowned museums, theaters, music venues, and festivals. They also offer a wide range of entertainment options, such as sports teams, amusement parks, and nightlife.
+</string>
+    <string name="course4">Branding</string>
+    <string name="topic4">What is branding?</string>
+    <string name="subheading4_1">Brand strategy:</string>
+    <string name="text4_1">The plan and framework that guides all aspects of a brands communication and marketing, including its target audience, messaging, positioning, and differentiation from competitors.
+</string>
+    <string name="subheading4_2">Brand management:</string>
+    <string name="text4_2">The ongoing process of monitoring, maintaining, and enhancing a brands reputation and image, including brand audits, brand tracking, and brand extensions.</string>
+</resources>
